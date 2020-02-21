@@ -1,0 +1,11 @@
+C:\Users\Dev10\source\repos\Number Wizard\bin\Debug\netcoreapp3.1\Number Wizard.exe
+C:\Users\Dev10\source\repos\Number Wizard\bin\Debug\netcoreapp3.1\Number Wizard.deps.json
+C:\Users\Dev10\source\repos\Number Wizard\bin\Debug\netcoreapp3.1\Number Wizard.runtimeconfig.json
+C:\Users\Dev10\source\repos\Number Wizard\bin\Debug\netcoreapp3.1\Number Wizard.runtimeconfig.dev.json
+C:\Users\Dev10\source\repos\Number Wizard\bin\Debug\netcoreapp3.1\Number Wizard.dll
+C:\Users\Dev10\source\repos\Number Wizard\bin\Debug\netcoreapp3.1\Number Wizard.pdb
+C:\Users\Dev10\source\repos\Number Wizard\obj\Debug\netcoreapp3.1\Number Wizard.csprojAssemblyReference.cache
+C:\Users\Dev10\source\repos\Number Wizard\obj\Debug\netcoreapp3.1\Number Wizard.AssemblyInfoInputs.cache
+C:\Users\Dev10\source\repos\Number Wizard\obj\Debug\netcoreapp3.1\Number Wizard.AssemblyInfo.cs
+C:\Users\Dev10\source\repos\Number Wizard\obj\Debug\netcoreapp3.1\Number Wizard.dll
+C:\Users\Dev10\source\repos\Number Wizard\obj\Debug\netcoreapp3.1\Number Wizard.pdb
